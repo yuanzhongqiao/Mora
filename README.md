@@ -42,13 +42,13 @@
 </tr>
 <tr>
   <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">雄伟的山脉被白雪覆盖，山峰触云，山脚清澈见底的湖泊，倒映着山峦和天空，形成了一幅令人惊叹的天然镜子。</font></font></td>
-  <td><animated-image data-catalyst="" style="width: 480px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task_1_demo_2.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task_1_demo_2.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 480px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task_1_demo_2.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task_1_demo_2.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      
       </span></animated-image></td>
 </tr>
   <tr>
   <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浩瀚的沙漠之中，一座金色的沙漠之城出现在地平线上，它的建筑融合了古埃及和未来元素。这座城市被辐射能量屏障包围，而在空中，有七道光柱环绕。</font></font></td>
-  <td><animated-image data-catalyst="" style="width: 480px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task_1_demo_3.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task_1_demo_3.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 480px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task_1_demo_3.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task_1_demo_3.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
        </animated-image></td>
 </tr>
 </tbody></table>
@@ -65,15 +65,15 @@
   <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/input1.jpg"><img src="https://github.com/lichao-sun/Mora/raw/main/image/input1.jpg" width="600" height="90" style="max-width: 100%;"></a></td>
   <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task2_demo1.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task2_demo1.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/sora_demo1.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/sora_demo1.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/sora_demo1.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/sora_demo1.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       </animated-image></td>
 </tr>
 <tr>
   <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">写有“SORA”的现实云的图像。</font></font></td>
-  <td><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/input2.jpg"><img src="/lichao-sun/Mora/raw/main/image/input2.jpg" width="600" height="90" style="max-width: 100%;"></a></td>
-  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task2_demo2.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task2_demo2.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/input2.jpg"><img src="https://github.com/lichao-sun/Mora/raw/main/image/input2.jpg" width="600" height="90" style="max-width: 100%;"></a></td>
+  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task2_demo2.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task2_demo2.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/sora_demo2.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/sora_demo2.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 160px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/sora_demo2.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/sora_demo2.gif" height="90" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      </animated-image></td>
 </tr>
 </tbody></table>
@@ -85,11 +85,11 @@
   <th align="left"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">索拉延长视频</font></font></b></th>
 </tr>
 <tr>
-  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/original video.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/original video.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/original video.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/original video.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/mora_task3.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/mora_task3.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/mora_task3.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/mora_task3.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
       </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task3_sora.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task3_sora.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 330px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task3_sora.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task3_sora.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       </animated-image></td>
 </tr>
 </tbody></table>
@@ -103,20 +103,20 @@
 </tr>
 <tr>
   <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将场景更改为 1920 年代的旧校车。</font><font style="vertical-align: inherit;">确保保持红色。</font></font></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_original.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task4_original.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_original.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_original.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
     </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_mora_1920.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task4_mora_1920.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_mora_1920.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_mora_1920.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_sora_1920.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task4_sora_1920.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_sora_1920.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_sora_1920.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
     </animated-image></td>
 </tr>
 <tr>
   <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将视频放到有彩虹路的太空中</font></font></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_original.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task4_original.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_original.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_original.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_mora_rainbow.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task4_mora_rainbow.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_mora_rainbow.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_mora_rainbow.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
     </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task4_sora_rainbow.gif" data-target="animated-image.originalLink"><img src="/lichao-sun/Mora/raw/main/image/task4_sora_rainbow.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <td><animated-image data-catalyst="" style="width: 240px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task4_sora_rainbow.gif" data-target="animated-image.originalLink"><img src="https://github.com/lichao-sun/Mora/raw/main/image/task4_sora_rainbow.gif" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       </animated-image></td>
 </tr>
 </tbody></table>
@@ -128,19 +128,19 @@
   <th align="left"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">输出连接视频</font></font></b></th>
 </tr>
 <tr>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_mora1.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_mora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_mora1.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_mora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
       </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_mora2.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_mora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_mora2.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_mora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_mora.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_mora.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_mora.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_mora.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
 </tr>
 <tr>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_sora1.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_sora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_sora1.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_sora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_sora2.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_sora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_sora2.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_sora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task5_sora.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task5_sora.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 300px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task5_sora.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task5_sora.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
 </tr>
 </tbody></table>
@@ -151,15 +151,15 @@
   <th align="left"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">索拉模拟视频</font></font></b></th>
 </tr>
 <tr>
-  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task6_mora1.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task6_mora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task6_mora1.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task6_mora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task6_sora1.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task6_sora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task6_sora1.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task6_sora1.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
 </tr>
 <tr>
-  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task6_mora2.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task6_mora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task6_mora2.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task6_mora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
        </animated-image></td>
-  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="/lichao-sun/Mora/blob/main/image/task6_sora2.gif" data-target="animated-image.originalLink" hidden=""><img src="/lichao-sun/Mora/raw/main/image/task6_sora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+  <td><animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/lichao-sun/Mora/blob/main/image/task6_sora2.gif" data-target="animated-image.originalLink" hidden=""><img src="https://github.com/lichao-sun/Mora/raw/main/image/task6_sora2.gif" height="auto" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
      </animated-image></td>
 </tr>
 </tbody></table>
